@@ -1,0 +1,19 @@
+{
+  "name": "eslint-example",
+  "version": "0.0.0",
+  "description": "eslint example",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha --recursive tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "~0.5.0",
+    "estraverse": "~1.5.0"
+  },
+  "devDependencies": {
+    "eslint-tester": "0.0.5",
+    "mocha": "~1.18.2"
+  }
+}
