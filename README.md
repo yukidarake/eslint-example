@@ -1,5 +1,6 @@
 # Usage
 ```
+# インストール
 git clone https://github.com/yukidarake/eslint-example.git
 cd eslint-example
 npm i
